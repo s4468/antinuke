@@ -6,7 +6,7 @@ Use this tool to protect your discord servers against nukes.
 This tool protects your servers from 16 type of events and it has recovery feature like Flantic. the difference is, you need to pay for recovery feature in flantic and this bot is always free ❤️. This tool is tested on nukers like Lithium & PlayZ nuker, so no chance to bypass it 🔥
 
 ### Setup
-#### Replit
+#### Replit 
 - click [this](https://github.com/Sxlitude/antinuke/tree/main) for replit version.
 #### Heroku
 - create an account on heroku
